@@ -49,7 +49,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kvskeerthana/kvskeerthana/output/snake.svg" alt="Snake animation" />
 
 ###
 
