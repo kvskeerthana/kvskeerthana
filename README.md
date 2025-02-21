@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a bachelor’s student in Electronics and Communication Engineering at Lendi Institute of Engineering and Technology 🎓. Passionate about learning and innovation, I strive to expand my knowledge 📚, develop new skills 💡, and explore opportunities that contribute to my personal and professional growth 🚀.</p>
+<p align="left">I am a B.Tech student in Electronics and Communication Engineering at Lendi Institute of Engineering and Technology 🎓. Passionate about learning and innovation, I strive to expand my knowledge 📚, develop new skills 💡, and explore opportunities that contribute to my personal and professional growth 🚀.</p>
 
 ###
 
